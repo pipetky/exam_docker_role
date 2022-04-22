@@ -1,0 +1,15 @@
+galaxy_info:
+  author: pipetky
+  description: docker installation with network for web app
+  company: epam
+
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.9
+
+  galaxy_tags:
+    - docker
+
+dependencies: []
+  - community.docker.docker_container
+  
