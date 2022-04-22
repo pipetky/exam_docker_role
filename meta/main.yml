@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: docker
   author: pipetky
   description: docker installation with network for web app
   company: epam
